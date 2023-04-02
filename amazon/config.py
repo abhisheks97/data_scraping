@@ -1,0 +1,1 @@
+AMAZON_SEARCH_URL = "https://www.amazon.in/s?k="
